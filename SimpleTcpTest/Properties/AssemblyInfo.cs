@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SimpleTcpTest")]
 [assembly: AssemblyDescription("Testing tool for connection errors.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("www.atwill.com")]
 [assembly: AssemblyProduct("SimpleTcpTest")]
-[assembly: AssemblyCopyright("© Atwill Productions 2017")]
+[assembly: AssemblyCopyright("© Bill Volz 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
